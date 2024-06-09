@@ -2,7 +2,7 @@
 This project was created in SDAIA T5 bootcamp with:
 
 - Yazeed Alshurify @Yazeedssh
-- Lena Alenazi
+- Lena Alenazi @lenaAlenazi
 - Jawaher Alfaifi
 
 The increasing prevalence of plant diseases is a major concern for global agricultural production. Plant diseases cause significant production losses, estimated to reduce farmers’ production by up to 70%. Farmers lose an estimated $220 billion annually due to lost agricultural production caused by plant diseases. Addressing this challenge requires rapid and accurate disease detection methods to reduce these losses.
